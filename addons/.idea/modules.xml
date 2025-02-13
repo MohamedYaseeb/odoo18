@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///opt/projects/GulfCo/Repos/.idea/Repos.iml" filepath="/opt/projects/GulfCo/Repos/.idea/Repos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/addons.iml" filepath="$PROJECT_DIR$/.idea/addons.iml" />
+      <module fileurl="file:///opt/projects/OTK/Repos/stage/.idea/stage.iml" filepath="/opt/projects/OTK/Repos/stage/.idea/stage.iml" />
+    </modules>
+  </component>
+</project>
